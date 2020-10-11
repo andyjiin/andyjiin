@@ -1,6 +1,7 @@
 ### Hi! 👋
 - :computer: Computer Engineering Student @ University of Waterloo
 - :car: Currently working on embedded systems for autonomous driving
+- :office: Previously @nuro-ai, @uber-atg, @ford
 <!--
 **andyjiin/andyjiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
